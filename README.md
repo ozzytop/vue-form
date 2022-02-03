@@ -1,5 +1,15 @@
 # vue-web-form
 
+Vue PoC from Tutorial
+
+Mainly focusing on:
+
+* forms
+* 2 data binding
+* submitting form
+
+
+
 ## Project setup
 ```
 npm install
